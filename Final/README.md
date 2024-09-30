@@ -1,4 +1,4 @@
-# Projeto completo em c, baixo nível (acessando registradores)
+# PROJETO FEITO EM C (ACESSANDO REGISTRADORES)
 
 ## Requisitos:
 - **Medição de Temperatura**: O dispositivo deve ser capaz de medir a temperatura ambiente com 
