@@ -1,5 +1,5 @@
 # PROJETO FEITO EM C (ACESSANDO REGISTRADORES)
-
+Link:<https://wokwi.com/projects/384451869106572289>
 ## Requisitos:
 - **Medição de Temperatura**: O dispositivo deve ser capaz de medir a temperatura ambiente com 
 precisão.
