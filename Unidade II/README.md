@@ -10,6 +10,6 @@ por dia;
 estiver vazio, conforme
 configuração do tutor
 
-### Dispositivos
+### Dispositivos:
 - Arduino MEGA 2560: mestre
 - Arduino UNO: escravo
