@@ -1,4 +1,5 @@
 # PROJETO - ALIMENTADOR DE PETS -
+## Parcialmente em baixo nível (acessando registradores)
 ### Objetivo: Proporcionar uma alimentação automatizada e controlada para animais de estimação, oferecendo flexibilidade ao tutor para configurar as quantidades de ração fornecidas por vez.
 ### Funcionalidades:
  - Configuração da quantidade de
