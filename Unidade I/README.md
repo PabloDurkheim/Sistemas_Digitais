@@ -15,3 +15,10 @@ medições e informações relevantes.
 menos 3 (três) modos diferentes, a serem definidos pelo usuário.
 - **Guardar registros de medições**: O dispositivo deve guardar no mínimo 10 registros de 
 aferições.
+
+## Dispostivo:
+O produto possui um arduino MEGA 2560, conectado a ele tem um sensor DHT11
+para verificar temperatura e umidade, um botão (PushButton) usado para alterar o modo de
+operação, um sensor de gás (potenciômetro) para proteção contra incêndio, buzzer para
+alarme de incêndio, display lcd 16x2 para mostrar o modo, temperatura e umidade,
+protoboard e jumps para conexões
