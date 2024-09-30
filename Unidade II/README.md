@@ -13,3 +13,12 @@ configuração do tutor
 ### Dispositivos:
 - Arduino MEGA 2560: mestre
 - Arduino UNO: escravo
+
+### Sobre o dispositivo:
+Inicialmente, o Arduino Mega 2560 foi configurado como mestre, responsável pela interface
+com o usuário por meio de um display LCD 16x2 e botões para configuração. O Arduino
+Uno, configurado como escravo, controla um servo motor para a abertura controlada de uma
+porta, permitindo a liberação da ração. A comunicação entre os dois microcontroladores foi
+estabelecida utilizando USART, proporcionando uma troca eficiente de informações. A
+balança digital, integrada ao Arduino Mega por meio do módulo conversor HX711, foi
+responsável por monitorar o nível de ração na vasilha.
