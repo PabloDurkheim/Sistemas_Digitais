@@ -1,5 +1,6 @@
 # PROJETO DE MONITORAMENTE AMBIENTAL
 ## Parcialmente em baixo nível (acessando registradores)
+Link: <https://wokwi.com/projects/378514404419100673>
 ## Requisitos:
 - **Medição de Temperatura**: O dispositivo deve ser capaz de medir a temperatura ambiente com 
 precisão.
